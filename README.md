@@ -13,6 +13,11 @@ or
 yarn add npm i @blockswaplab/stakehouse-solidity-api
 ```
 
+or
+```
+forge install stakehouse-dev/stakehouse-solidity-api
+```
+
 And you'll get both the API and the smart contract interfaces for the Stakehouse protocol.
 
 Solidity import path for the API as follows:
