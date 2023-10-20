@@ -1,0 +1,16 @@
+{
+  "name": "@blockswaplab/stakehouse-solidity-api",
+  "version": "2.3.0",
+  "description": "Easy plug and play Solidity interfaces but already connected with the correct contracts",
+  "author": "Blockswap Labs",
+  "license": "BUSL-1.1",
+  "scripts": {
+    "compile": "hardhat compile"
+  },
+  "devDependencies": {
+    "hardhat": "^2.11.0"
+  },
+  "dependencies": {
+    "@blockswaplab/stakehouse-contract-interfaces": "1.0.17"
+  }
+}
