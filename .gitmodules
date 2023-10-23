@@ -1,0 +1,3 @@
+[submodule "lib/stakehouse-contract-interfaces"]
+	path = lib/stakehouse-contract-interfaces
+	url = https://github.com/stakehouse-dev/stakehouse-contract-interfaces
